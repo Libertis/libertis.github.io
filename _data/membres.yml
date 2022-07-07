@@ -3,13 +3,13 @@
   link: http://adiczion.com
   description: Spécialiste des solutions de gestion Libre Tryton et Odoo CE. Nous intervenons tout au long de votre projet autour de ces solutions : l'étude, l'intégration, le developpement et l'hébergement.
 
-- title: ALTERWAY - Groupe SMILE
-  description: ""
-  
 - title: HYBIRD
   logo: https://hybird.org/sites/default/files/logo.png
   link: https://hybird.org
   description: Les éditeurs de Crème, le CRM libre et délicieux.
+  
+- title: ALTERWAY - Groupe SMILE
+  description: ""
   
 - title: ITIKA
   logo: https://www.itika-solutions.net/site/templates/images/logo.png
